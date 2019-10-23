@@ -1,6 +1,6 @@
 # base
 
-A new Flutter project.
+A Flutter application created for the course of alura
 
 ## Getting Started
 
